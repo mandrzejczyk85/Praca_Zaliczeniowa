@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="703b2052-181f-4a9e-b26e-70b69c56568e" name="Changes" comment="adding files">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/A_CreateAccount/Steps/Pages/FillYourPersonalDataPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/A_CreateAccount/Steps/Pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/A_CreateAccount/Steps/Pages/LogInToYourAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/A_CreateAccount/Steps/Steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/B_AddFirstAddress/Steps/Pages/AddNewAddressPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/B_AddFirstAddress/Steps/Pages/AddressesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/B_AddFirstAddress/Steps/Pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/B_AddFirstAddress/Steps/Pages/LogInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/B_AddFirstAddress/Steps/Pages/YourAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/B_AddFirstAddress/Steps/Steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/C_ProductPurchase/Steps/Pages/St10_OrderHistoryAndDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/C_ProductPurchase/Steps/Pages/St1_HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/C_ProductPurchase/Steps/Pages/St2_LogInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/C_ProductPurchase/Steps/Pages/St3_YourAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/C_ProductPurchase/Steps/Pages/St4_ClothesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/C_ProductPurchase/Steps/Pages/St5_SweaterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/C_ProductPurchase/Steps/Pages/St6_SelectAddressPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/C_ProductPurchase/Steps/Pages/St7_ShippingMethodPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/C_ProductPurchase/Steps/Pages/St8_PaymentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/C_ProductPurchase/Steps/Pages/St9_OrderConfirmedPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/C_ProductPurchase/Steps/Steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/D_DeleteFirstAddress/Steps/Pages/St1_HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/D_DeleteFirstAddress/Steps/Pages/St2_LogInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/D_DeleteFirstAddress/Steps/Pages/St3_YourAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/D_DeleteFirstAddress/Steps/Pages/St4_ClothesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/D_DeleteFirstAddress/Steps/Pages/St5_SweaterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/D_DeleteFirstAddress/Steps/Pages/St6_AddressPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/D_DeleteFirstAddress/Steps/Pages/St7_ShopingCartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MyStore/D_DeleteFirstAddress/Steps/Steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/A_TestRunnerCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/B_TestRunnerAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/C_TestRunnerPurchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/D_TestRunnerDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Features/A_CreateAccount.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Features/B_AddFirstAddress.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Features/C_ProductPurchase.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Features/D_DeleteFirstAddress.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2M8myBF8LGDnjmh5if2hcW27vLR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/JAVA/GIT/PracaZaliczeniowa/src/test/java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JAVA\GIT\PracaZaliczeniowa\src\test\java" />
+      <recent name="C:\JAVA\GIT\PracaZaliczeniowa\src\main\java" />
+      <recent name="C:\JAVA\GIT\PracaZaliczeniowa\src\main\java\MyStore\A_AddFirstAddress\Steps\Pages" />
+      <recent name="C:\JAVA\GIT\PracaZaliczeniowa\src\main\java\MyStore\B_AddNewAddress\Steps" />
+      <recent name="C:\JAVA\GIT\PracaZaliczeniowa\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="MyStore.A_CreateNewAccount.Steps" />
+      <recent name="MyStore.A_AddFirstAddress.Steps" />
+      <recent name="MyStore.B_AddNewAddress.Steps" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.A_TestRunnerCreate">
+    <configuration name="A_TestRunnerCreate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PracaZaliczeniowa" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="A_TestRunnerCreate" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B_TestRunnerAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PracaZaliczeniowa" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="B_TestRunnerAdd" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C_TestRunnerPurchase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PracaZaliczeniowa" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="C_TestRunnerPurchase" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D_TestRunnerDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PracaZaliczeniowa" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="D_TestRunnerDelete" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.A_TestRunnerCreate" />
+        <item itemvalue="JUnit.D_TestRunnerDelete" />
+        <item itemvalue="JUnit.C_TestRunnerPurchase" />
+        <item itemvalue="JUnit.B_TestRunnerAdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="703b2052-181f-4a9e-b26e-70b69c56568e" name="Changes" comment="" />
+      <created>1677157835554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677157835554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding files" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding files" />
+  </component>
+</project>
